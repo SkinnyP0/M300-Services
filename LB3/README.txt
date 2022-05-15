@@ -1,5 +1,5 @@
 #LB3#
-##Inhaltsverzeichnis<h2<
+##Inhaltsverzeichnis##
 
     -Service Beschreibung
     -Service Anwendung

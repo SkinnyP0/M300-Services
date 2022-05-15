@@ -9,7 +9,7 @@
     -Quellenangaben wo nötig
 
 
-##Service Beschreibung</h2<
+##Service Beschreibung##
 
 Eine Webschnittstelle für die Verwaltung 
 von Docker-Containern mit Schwerpunkt auf

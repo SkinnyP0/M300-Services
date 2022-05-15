@@ -25,4 +25,37 @@ Dank Yacht hat man auf jedem Gerät eine abgespeckte Version vom Dockerhub.
 Das alleinstelllungsmerkmal von Yacht sind die Templates, mit welcher man 
 seine Weboberfläche so gestalten kann wie man will. 
 
-<h2>Grafische ÜbersichtS</h2>
+<h2>Grafische Übersicht</h2>
+Das GUI von Yacht sieht von User zu User immer sehr unterschiedlich aus.
+ Die Farben sind meistens anderst und die Menüpunkte anderst sortiert. Wie oben schon erwähnt kann man
+ Templates verwenden um die Farben und die Menü-Struktur zu verändern.
+
+Ich habe Screenshot von der Standart Menü-Struktur gemacht um Ihnen zeigen zu können, was es alles zu sehen gibt. 
+
+images\YachtDashboard.png
+Nach dem Anmeldescreen sieht man als erstes sein Dashboard. Hier kann man selber entscheiden was man als erstes zu Gesicht bekommen möcht.
+
+images\YachtApplications.png
+Hier sieht man die Applikationen, welche man zuer verfügung hat. Diese kann man auch von hier aus ein -oder ausschalten.
+
+images\Templates.png
+Unter diesem Fenster sieht man seine Templates. Ich habe zuerzeit keine Templates installiert.
+
+images\Projects
+Unter Projects sieht man seine Docker Projekte und kann auch neue erstellen in dem man auf das Plus klickt.
+Sobald man auf das Plus klickt erscheint ein Editor in welchem man eine compose Datei erstellen kann.
+
+images\YachtRessourcesImages.png
+Hier sieht man alles Images, welche man heruntergeladen hat. 
+
+images\YachtRessourcesNetworks.png
+Hier sieht man seine Docker Netzwerke.
+
+images\YachtRessourcesVolumes.png
+Hier sieht man wie die verschiedenen Volumes belastet sind.
+
+images\Settings.png
+Unter den Einstellungen kann man seine Templates anpassen, seinen Papierkorb leeren oder alte 
+Dateien wiederherstellen und Yacht updaten. 
+
+<h2>Code Beschreibung</h2>
